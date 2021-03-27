@@ -1,0 +1,1 @@
+# looProj_test-rabbitmq
